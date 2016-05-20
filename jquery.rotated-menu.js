@@ -2,6 +2,9 @@
 {
 	$.fn.rotatedmenu = function(speed) {
 
+		if(speed < 1 || speed > 100) {
+			speed = 0.5;
+		}
 		if(!(speed)){
 			speed = 0.5;
 		} else {
