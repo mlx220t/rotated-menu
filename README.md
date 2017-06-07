@@ -1,6 +1,6 @@
 # Simple Rotated menu.
 
-You can see the Demo here: http://web.kupibo.com.ua/_demo/js/rotated-menu/
+You can see the Demo here: http://kupibo.com.ua/web/_demo/js/rotated-menu/
 
 #### You should add:
 
